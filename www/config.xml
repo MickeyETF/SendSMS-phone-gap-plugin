@@ -17,5 +17,5 @@
         Milan Milicevic
     </author>
     <access origin="*" />
-
+<gap:plugin name="SMSPlugin" />
 </widget>
